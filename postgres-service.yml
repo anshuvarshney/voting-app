@@ -4,7 +4,7 @@ metadata:
   name: db
   labels:
     name: postgres-service
-    app: demo-voting-appi
+    app: demo-voting-app
 spec:
   ports:
     - port: 5432
